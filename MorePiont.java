@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class MorePiont {
 
+    /*Améliorations: 
+    - Commentaires plus clairs
+    - Version backtracking pour jouer à un seul joueur 
+     */
+
     public static int[][] grille = new int[3][3]; // Variable globale (grille de jeux)
 
     // Constantes
